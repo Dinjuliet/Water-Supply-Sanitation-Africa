@@ -44,5 +44,6 @@ Using SQL, I queried datasets to extract insights such as:
 # CONNECT WITH ME
 
 Email: dinjulieto@gmail.com
-LinkedIn: 
+
+LinkedIn: https://www.linkedin.com/in/juliet-obianuju-dingwoke
 
