@@ -39,7 +39,7 @@ Using SQL, I queried datasets to extract insights such as:
 - What’s the average distance to the nearest water source?
 
 # OTHERS
-[LinkedIn](https://www.linkedin.com/posts/juliet-obianuju-dingwoke_datafam-datafam-powerbi-activity-7318968548792397824-ttSs?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2sYEB_u54k7kCyt5xLX2OS6Iqo3GlcSg)
+[LinkedIn](https://www.linkedin.com/posts/juliet-obianuju-dingwoke_sql-dataanalytics-axiaafrica-activity-7315276011229601795-KcYM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2sYEB_u54k7kCyt5xLX2OS6Iqo3GlcSg)
 
 # CONNECT WITH ME
 
